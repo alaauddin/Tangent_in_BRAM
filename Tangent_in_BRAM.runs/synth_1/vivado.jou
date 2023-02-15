@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Feb 15 01:41:50 2023
+# Process ID: 17072
+# Current directory: C:/Users/User/ACTIVATION FUNCTION/Tangent_in_BRAM/Tangent_in_BRAM.runs/synth_1
+# Command line: vivado.exe -log Tangent.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Tangent.tcl
+# Log file: C:/Users/User/ACTIVATION FUNCTION/Tangent_in_BRAM/Tangent_in_BRAM.runs/synth_1/Tangent.vds
+# Journal file: C:/Users/User/ACTIVATION FUNCTION/Tangent_in_BRAM/Tangent_in_BRAM.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Tangent.tcl -notrace
